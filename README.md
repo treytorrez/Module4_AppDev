@@ -6,7 +6,7 @@ This application is a simple calendar utility. It displays a scrollable list of 
 
 The purpose of creating this app is to practice building UIs with Flutter, understand widget composition, manage state within a widget tree, and implement navigation features like modal bottom sheets. It also serves as a foundation for learning how to integrate local data persistence.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=714OJcb20HM)
 
 # Development Environment
 
